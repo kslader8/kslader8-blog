@@ -3,7 +3,7 @@ name = "kslader8-thoughts"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.13"
 dependencies = [
     "inject>=5.2.1",
     "jupyter-black>=0.4.0",
@@ -11,5 +11,6 @@ dependencies = [
     "matplotlib>=3.10.0",
     "pandas>=2.2.3",
     "plotly>=5.24.1",
+    "pyomo>=6.8.2",
     "scikit-learn>=1.6.1",
 ]
